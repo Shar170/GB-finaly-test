@@ -1,0 +1,15 @@
+I:\projects\GeekBrains\GB-finaly-test\bin\Debug\net6.0\GB-finaly-test.exe
+I:\projects\GeekBrains\GB-finaly-test\bin\Debug\net6.0\GB-finaly-test.deps.json
+I:\projects\GeekBrains\GB-finaly-test\bin\Debug\net6.0\GB-finaly-test.runtimeconfig.json
+I:\projects\GeekBrains\GB-finaly-test\bin\Debug\net6.0\GB-finaly-test.dll
+I:\projects\GeekBrains\GB-finaly-test\bin\Debug\net6.0\GB-finaly-test.pdb
+I:\projects\GeekBrains\GB-finaly-test\obj\Debug\net6.0\GB-finaly-test.csproj.AssemblyReference.cache
+I:\projects\GeekBrains\GB-finaly-test\obj\Debug\net6.0\GB-finaly-test.GeneratedMSBuildEditorConfig.editorconfig
+I:\projects\GeekBrains\GB-finaly-test\obj\Debug\net6.0\GB-finaly-test.AssemblyInfoInputs.cache
+I:\projects\GeekBrains\GB-finaly-test\obj\Debug\net6.0\GB-finaly-test.AssemblyInfo.cs
+I:\projects\GeekBrains\GB-finaly-test\obj\Debug\net6.0\GB-finaly-test.csproj.CoreCompileInputs.cache
+I:\projects\GeekBrains\GB-finaly-test\obj\Debug\net6.0\GB-finaly-test.dll
+I:\projects\GeekBrains\GB-finaly-test\obj\Debug\net6.0\refint\GB-finaly-test.dll
+I:\projects\GeekBrains\GB-finaly-test\obj\Debug\net6.0\GB-finaly-test.pdb
+I:\projects\GeekBrains\GB-finaly-test\obj\Debug\net6.0\GB-finaly-test.genruntimeconfig.cache
+I:\projects\GeekBrains\GB-finaly-test\obj\Debug\net6.0\ref\GB-finaly-test.dll
